@@ -2,7 +2,7 @@
 
 # NOTE: My script produced the specified output but I cannot get the 
 # CodeRoad lesson to recognize two steps (1.1:23 and 1.1:24) even though my
-# output is identical to what is specified.  I'm not sure what to do *shrug*
+# output is identical to what is specified.  I'm not sure what to do shrug
 
 # We are expecting this script to be called with an argument.  That argument 
 # should be the atomic number, symbol or name of an element.  We will validate against
