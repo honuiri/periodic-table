@@ -1,1 +1,1 @@
-This is a new feature for the periodic table
+feat: This is a new feature for the periodic table
