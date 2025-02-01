@@ -1,1 +1,1 @@
-Fixing a bug in the periodic table display
+fix: Fixing a bug in the periodic table display

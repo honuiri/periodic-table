@@ -1,2 +1,1 @@
-Adding another feature to improve the functionality
-sadasd
+feat: Adding another feature to improve the functionality
